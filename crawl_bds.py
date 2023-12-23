@@ -9,7 +9,7 @@ import config
 
 class RealEstateCrawler:
     def __init__(self, type_realestate: str) -> None:
-        self.type_realestate: str = type_realestate
+        self.type_realestate = type_realestate
         self.df_res: pd.DataFrame = pd.DataFrame()
 
     def crawl_number_pages(self) -> int:
