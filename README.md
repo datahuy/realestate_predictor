@@ -1,5 +1,7 @@
 # Crawl Data Bất động sản trên các trang web bds lớn phục vụ xác định chi phí thuê văn phòng/kiot/nhà của một cá nhân/nhà buôn/người kinh doanh
 
+![Mô tả](./description.png)
+
 ## Mục đích
 Thư mục code này chứa các thành phần chính để thu thập dữ liệu từ các trang web bất động sản, xây dựng mô hình dự đoán giá thuê nhà / giá mua nhà / giá đất /..., và tạo một ứng dụng giao diện người dùng (GUI) để demo kết quả.
 Trong thời hạn ngắn ngủi, repo này chỉ crawl tại batdongsan.com.vn, nhưng đây có thể là tiền để để mở rộng DATA CATALOG về giá cả trên thị trường bds VN, từ đó xây dựng các pipeline crawl 1-2 tuần / lần cho các mục tiêu của KV như Lending, MI.
