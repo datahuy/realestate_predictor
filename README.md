@@ -5,12 +5,13 @@ Thư mục code này chứa các thành phần chính để thu thập dữ li�
 Trong thời hạn ngắn ngủi, repo này chỉ crawl tại batdongsan.com.vn, nhưng đây có thể là tiền để để mở rộng DATA CATALOG về giá cả trên thị trường bds VN, từ đó xây dựng các pipeline crawl 1-2 tuần / lần cho các mục tiêu của KV như Lending, MI.
 
 ## Kết quả
-| Cột 1 | Cột 2 | Cột 3 | Cột 4 | Cột 5 |
+| Title | Price | Area | Location | Type |
 |-------|-------|-------|-------|-------|
-| Dòng 1 | Ô (1,1) | Ô (1,2) | Ô (1,3) | Ô (1,4) |
-| Dòng 2 | Ô (2,1) | Ô (2,2) | Ô (2,3) | Ô (2,4) |
-| Dòng 3 | Ô (3,1) | Ô (3,2) | Ô (3,3) | Ô (3,4) |
-| Dòng 4 | Ô (4,1) | Ô (4,2) | Ô (4,3) | Ô (4,4) |
+| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
+| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
+| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
+| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
+
 
 ## Các File Chính
 
