@@ -8,10 +8,7 @@ Trong thời hạn ngắn ngủi, repo này chỉ crawl tại batdongsan.com.vn,
 | Title | Price | Area | Location | Type |
 |-------|-------|-------|-------|-------|
 | Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
-| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
-| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
-| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
-
+| Phòng cho thuê ở Tô Hiến Thành, Quận 10 - Đại học Huflit - Vạn Hạnh Mall | 6,6 triệu/tháng | 28 m² | Quận 10, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
 
 ## Các File Chính
 
