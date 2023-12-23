@@ -8,7 +8,7 @@ import config
 class RealEstatePredictor:
     def __init__(self):
         self.model_filename = 'model/model.pkl'
-        self.image_filename = 'OK2.jpg'
+        self.image_filename = 'images/OK2.jpg'
         self.data_filename = 'data_bds/all_bds_clean.csv'
         self.loaded_model = None
         self.city_district_mapping = config.city_district_mapping
