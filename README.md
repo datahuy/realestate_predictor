@@ -4,6 +4,14 @@
 Thư mục code này chứa các thành phần chính để thu thập dữ liệu từ các trang web bất động sản, xây dựng mô hình dự đoán giá thuê nhà / giá mua nhà / giá đất /..., và tạo một ứng dụng giao diện người dùng (GUI) để demo kết quả.
 Trong thời hạn ngắn ngủi, repo này chỉ crawl tại batdongsan.com.vn, nhưng đây có thể là tiền để để mở rộng DATA CATALOG về giá cả trên thị trường bds VN, từ đó xây dựng các pipeline crawl 1-2 tuần / lần cho các mục tiêu của KV như Lending, MI.
 
+## Kết quả
+| Cột 1 | Cột 2 | Cột 3 | Cột 4 | Cột 5 |
+|-------|-------|-------|-------|-------|
+| Dòng 1 | Ô (1,1) | Ô (1,2) | Ô (1,3) | Ô (1,4) |
+| Dòng 2 | Ô (2,1) | Ô (2,2) | Ô (2,3) | Ô (2,4) |
+| Dòng 3 | Ô (3,1) | Ô (3,2) | Ô (3,3) | Ô (3,4) |
+| Dòng 4 | Ô (4,1) | Ô (4,2) | Ô (4,3) | Ô (4,4) |
+
 ## Các File Chính
 
 1. **crawl_bds.py**: 
