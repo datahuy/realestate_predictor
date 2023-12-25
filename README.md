@@ -26,7 +26,9 @@ Trong thời hạn ngắn ngủi, repo này chỉ crawl tại batdongsan.com.vn,
 4. **data_bds**:
    - Thư mục này chứa data được lưu về trong quá trình crawl. Nên sau này cần gộp data vào 1 file dataframe chung cho dễ xử lý
 
-
+5. **clean_&_preprocessing**:
+   - Thư mục này để clean data và xây mô hình test (Nói chung vẫn đang ở dạng jupyter vì phần clean hơi nhiều do data crawl về ở các dạng khá lung tung)
+   
 ## Cách Sử Dụng
 
 BƯỚC 1. **Thu thập Dữ liệu (crawl_bds.py)**:
